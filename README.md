@@ -37,4 +37,4 @@ print("Accuracy:", accuracy)
 print("Loss:", loss)
 ```
 ## Datasets
-https://drive.google.com/drive/folders/1sKApYFk1OViZZilpzvQlkzHNiePPhS47?usp=sharing
+The used datasets besides related features can be found at [Google Drive](https://drive.google.com/drive/folders/1sKApYFk1OViZZilpzvQlkzHNiePPhS47?usp=sharing).
